@@ -11,3 +11,6 @@ Before running the `gif_maker.py`, you can adjust the following parameters:
 --repeat_GIF  : 0: repeat, 1: no repeat
 --result_dir  : path of result gif 
 ```
+
+## Visual Result  
+<img src="figures/105.gif" alt="arch" width="500" style="zoom:100%;" />  
