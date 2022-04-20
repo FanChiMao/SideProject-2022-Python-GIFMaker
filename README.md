@@ -25,6 +25,7 @@ Before running the `gif_maker.py`, you can adjust the following parameters:
   | Restoration tasks   |    Restored images   |
   | ------------------- | :----------: |
   | Denoise (real-world)|<img src="https://media.giphy.com/media/IEQGj4WRLxsbHvayGY/giphy.gif" alt="noise2" width="200" style="zoom:100%;" />|
+  | Denoise (gaussian)  |<img src="https://media.giphy.com/media/jjIObvtRhVFLm0QfpW/giphy.gif" alt="noise" width="200" style="zoom:100%;" />|
   | Derain (rainstreak) |<img src="https://media.giphy.com/media/SObtoc6A5Te0gI6RXt/giphy.gif" alt="rain" width="200" style="zoom:100%;" />|
   | Derain (raindrop)   |<img src="https://media.giphy.com/media/yJJJkjMsfLMdRl7CN1/giphy.gif" alt="rain2" width="200" style="zoom:100%;" />|
   | Dehaze (densehaze)  |<img src="https://media.giphy.com/media/YwbHdQ241UkY1U7tvN/giphy.gif" alt="haze" width="200" style="zoom:100%;" />|
