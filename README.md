@@ -24,7 +24,7 @@ Before running the `gif_maker.py`, you can adjust the following parameters:
 
   | Restoration task |    Restored images   |  Ground Truth     |
   | ---------------- | :----------: | :----------: |
-  | Deraindrop       |<img src="https://i.imgur.com/fzfTRYQ.gifv" alt="arch" width="300" style="zoom:100%;" />|<img src="https://i.imgur.com/fzfTRYQ.gif" alt="arch" width="300" style="zoom:100%;" />|
+  | Deraindrop       |<img src="https://giphy.com/gifs/nNByZuGBET3u2u3MXr" alt="arch" width="300" style="zoom:100%;" />|<img src="https://i.imgur.com/fzfTRYQ.gif" alt="arch" width="300" style="zoom:100%;" />|
   | Dehaze           |<img src="figures/47.gif" alt="arch" width="300" style="zoom:100%;" />|<img src="figures/47_gt.png" alt="arch" width="300" style="zoom:100%;" />|  <iframe src="https://giphy.com/embed/nNByZuGBET3u2u3MXr" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nNByZuGBET3u2u3MXr">via GIPHY</a></p>
 [Imgur](https://i.imgur.com/fzfTRYQ.gifv)
 - Deblur ([GoPro dataset](https://seungjunnah.github.io/Datasets/gopro)):  
