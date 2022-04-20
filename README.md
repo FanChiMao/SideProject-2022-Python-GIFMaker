@@ -21,11 +21,6 @@ Before running the `gif_maker.py`, you can adjust the following parameters:
 ## 3. Final examples  
 
 <details>  
-
-
-- Restoration:  
-  
-  
 <summary>more detail...</summary>  
   
 | Restoration tasks   |    Restored images   |
