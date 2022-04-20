@@ -22,6 +22,7 @@ Before running the `gif_maker.py`, you can adjust the following parameters:
 
 <details>  
 <summary>Restoration...</summary>  
+  
 | Restoration tasks   |    Restored images   |
 | ------------------- | :----------: |
 | Denoise (real-world)|<img src="https://media.giphy.com/media/IEQGj4WRLxsbHvayGY/giphy.gif" alt="noise2" width="200" style="zoom:100%;" />|
