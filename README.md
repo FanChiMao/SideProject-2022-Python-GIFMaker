@@ -21,7 +21,7 @@ Before running the `gif_maker.py`, you can adjust the following parameters:
 ## 3. Final examples  
 
 <details>  
-<summary>Restoration...</summary>  
+<summary>Restoration (visual result)</summary>  
   
 | Restoration tasks   |    Restored images   |
 | ------------------- | :----------: |
@@ -35,11 +35,12 @@ Before running the `gif_maker.py`, you can adjust the following parameters:
 </details>  
 
 <details>  
-<summary>Segmentation...</summary>
+<summary>Segmentation (visual result)</summary>
   
 | Restoration tasks   |    Restored images   |
 | ------------------- | :----------: |
 | Instance segmentation|<img src="https://media.giphy.com/media/nNByZuGBET3u2u3MXr/giphy.gif" alt="noise2" width="200" style="zoom:100%;" />|
+| K-mean|<img src="https://media.giphy.com/media/j1i8wuuD11HfaUIAGj/giphy.gif" alt="noise2" width="200" style="zoom:100%;" />| 
 </details>  
 
 
