@@ -22,15 +22,15 @@ Before running the `gif_maker.py`, you can adjust the following parameters:
 
 - Restoration:  
 
-  | Restoration task |    Restored images   |  Ground Truth     |
-  | ---------------- | :----------: | :----------: |
-  | Deraindrop       |<img src="https://media.giphy.com/media/nNByZuGBET3u2u3MXr/giphy.gif" alt="arch" width="300" style="zoom:100%;" />|<img src="https://i.imgur.com/fzfTRYQ.gif" alt="arch" width="300" style="zoom:100%;" />|
-  | Dehaze           |<img src="figures/47.gif" alt="arch" width="300" style="zoom:100%;" />|<img src="figures/47_gt.png" alt="arch" width="300" style="zoom:100%;" />| 
+  | Restoration tasks   |    Restored images   |
+  | ------------------- | :----------: |
+  | Denoise (gaussian)  |<img src="https://media.giphy.com/media/o6GvsH5ubPkSCLjS9Q/giphy.gif" alt="arch" width="300" style="zoom:100%;" />|
+  | Denoise (real-world)|<img src="https://media.giphy.com/media/IEQGj4WRLxsbHvayGY/giphy.gif" alt="arch" width="300" style="zoom:100%;" />|
+  | Derain (rainstreak) |<img src="https://media.giphy.com/media/SObtoc6A5Te0gI6RXt/giphy.gif" alt="arch" width="300" style="zoom:100%;" />|
+  | Derain (raindrop)   |<img src="https://media.giphy.com/media/yJJJkjMsfLMdRl7CN1/giphy.gif" alt="arch" width="300" style="zoom:100%;" />|
+  | Dehaze (densehaze)  |<img src="https://media.giphy.com/media/YwbHdQ241UkY1U7tvN/giphy.gif" alt="arch" width="300" style="zoom:100%;" />|
+  | Deblur (motionblur) |<img src="https://media.giphy.com/media/DtxWtxJriS6mccMbZI/giphy.gif" alt="arch" width="300" style="zoom:100%;" />|
+  | LLEnhancement       |<img src="https://media.giphy.com/media/RkX38YYf8eFdMQ4L8I/giphy.gif" alt="arch" width="300" style="zoom:100%;" />|
+  | Retouching          |<img src="https://media.giphy.com/media/IFcyeXyXyuN3zbuOuD/giphy.gif" alt="arch" width="300" style="zoom:100%;" />|
   
-
-- Deblur ([GoPro dataset](https://seungjunnah.github.io/Datasets/gopro)):  
-
-  | Video restoration|    Restored images   |  
-  | ---------------- | :----------: |  
-  | Orginal       |<img src="figures/GoPro_1.gif" width="620" style="zoom:100%;" />|  
-  | Deblur result |<img src="figures/GoPro_deblur.gif" width="620" style="zoom:100%;" />|  
+  
