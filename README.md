@@ -26,7 +26,7 @@ Before running the `gif_maker.py`, you can adjust the following parameters:
 - Restoration:  
   
   
-<summary>more detail...</summary>   
+  <summary>more detail...</summary>   
   | Restoration tasks   |    Restored images   |
   | ------------------- | :----------: |
   | Denoise (real-world)|<img src="https://media.giphy.com/media/IEQGj4WRLxsbHvayGY/giphy.gif" alt="noise2" width="200" style="zoom:100%;" />|
@@ -36,4 +36,4 @@ Before running the `gif_maker.py`, you can adjust the following parameters:
   | Deblur (motionblur) |<img src="https://media.giphy.com/media/DtxWtxJriS6mccMbZI/giphy.gif" alt="blur" width="200" style="zoom:100%;" />|
   | LLEnhancement       |<img src="https://media.giphy.com/media/RkX38YYf8eFdMQ4L8I/giphy.gif" alt="ll" width="200" style="zoom:100%;" />|
   | Retouching          |<img src="https://media.giphy.com/media/IFcyeXyXyuN3zbuOuD/giphy.gif" alt="rt" width="200" style="zoom:100%;" />|
-</details>  
+  </details>  
