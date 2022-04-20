@@ -36,6 +36,7 @@ Before running the `gif_maker.py`, you can adjust the following parameters:
 
 <details>  
 <summary>Segmentation...</summary>
+  
 | Restoration tasks   |    Restored images   |
 | ------------------- | :----------: |
 | Instance segmentation|<img src="https://media.giphy.com/media/nNByZuGBET3u2u3MXr/giphy.gif" alt="noise2" width="200" style="zoom:100%;" />|
