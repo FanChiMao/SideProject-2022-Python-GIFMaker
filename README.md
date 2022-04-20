@@ -21,8 +21,7 @@ Before running the `gif_maker.py`, you can adjust the following parameters:
 ## 3. Final examples  
 
 <details>  
-<summary>more detail...</summary>  
-  
+<summary>Restoration...</summary>  
 | Restoration tasks   |    Restored images   |
 | ------------------- | :----------: |
 | Denoise (real-world)|<img src="https://media.giphy.com/media/IEQGj4WRLxsbHvayGY/giphy.gif" alt="noise2" width="200" style="zoom:100%;" />|
@@ -33,3 +32,13 @@ Before running the `gif_maker.py`, you can adjust the following parameters:
 | LLEnhancement       |<img src="https://media.giphy.com/media/RkX38YYf8eFdMQ4L8I/giphy.gif" alt="ll" width="200" style="zoom:100%;" />|
 | Retouching          |<img src="https://media.giphy.com/media/IFcyeXyXyuN3zbuOuD/giphy.gif" alt="rt" width="200" style="zoom:100%;" />|
 </details>  
+
+<details>  
+<summary>Segmentation...</summary>  
+| Restoration tasks   |    Restored images   |
+| ------------------- | :----------: |
+| Instance segmentation|<img src="https://media.giphy.com/media/nNByZuGBET3u2u3MXr/giphy.gif" alt="noise2" width="200" style="zoom:100%;" />|
+
+</details>  
+
+
