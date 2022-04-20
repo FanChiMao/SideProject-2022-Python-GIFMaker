@@ -35,6 +35,14 @@ Before running the `gif_maker.py`, you can adjust the following parameters:
 </details>  
 
 <details>  
+<summary>Inpainting (visual result)</summary>  
+  
+| Restoration tasks   |    Restored images   |
+| ------------------- | :----------: |
+| Inpainting |<img src="https://media.giphy.com/media/DLiMGg3vkEJSFl9pib/giphy.gif" alt="noise2" width="200" style="zoom:100%;" />|
+</details>  
+
+<details>  
 <summary>Segmentation (visual result)</summary>
   
 | Restoration tasks   |    Restored images   |
