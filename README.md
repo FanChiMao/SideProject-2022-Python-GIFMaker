@@ -48,6 +48,7 @@ Before running the `gif_maker.py`, you can adjust the following parameters:
 | Restoration tasks   |    Restored images   |
 | ------------------- | :----------: |
 | Instance segmentation|<img src="https://media.giphy.com/media/nNByZuGBET3u2u3MXr/giphy.gif" alt="noise2" width="200" style="zoom:100%;" />|
+| Semantic segmentation|<img src="https://media.giphy.com/media/JqK6l85HiZlpUEmxmD/giphy.gif" alt="noise3" width="200" style="zoom:100%;" />|
 | K-mean|<img src="https://media.giphy.com/media/j1i8wuuD11HfaUIAGj/giphy.gif" alt="noise2" width="200" style="zoom:100%;" />| 
 </details>  
 
