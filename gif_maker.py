@@ -30,8 +30,8 @@ def make_essential_frames(restored, noise, type, scale, step, frame_dir):
 
     data_file = 1
     for i in tqdm(range(0, (w//step)*step, step)):
-        left = resize_restored[0:h, 0:(step + i)]
-        right = resize_noise[0:h, (step + i):w]
+        left = resize_restored[0:r_h, 0:(step + i)]
+        right = resize_noise[0:r_h, (step + i):r_w]
         combine = np.concatenate((left, right), axis=1)
         cv2.imwrite(os.path.join(frame_dir, f'frame_{str(data_file).zfill(4)}.{type}'), combine)
         data_file += 1
